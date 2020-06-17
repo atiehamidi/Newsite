@@ -179,6 +179,13 @@ footer {
         margin-bottom: 5px;
     }
 }
+footer a{
+    color: #f4f4f4;
+    margin-left: 5px;
+}
+footer a:hover{
+    color: black;
+}
 
 
 
